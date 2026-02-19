@@ -50,5 +50,3 @@ How the optimal number of targeted customers changes under different assumptions
 
 > the dataset is available on Kaggle [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data). I don’t store the full dataset in the repo by default; download it and and adjust the notebook path.
 
-## GitHub Pages
-This repo includes a ready-to-serve HTML report in `docs/`. Enable GitHub Pages from the `main` branch and `/docs` folder, and you’ll get a clean public project page.
