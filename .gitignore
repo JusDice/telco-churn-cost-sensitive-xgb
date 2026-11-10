@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Optuna studies saved to SQLite
+*.db
+
+# Editors and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
